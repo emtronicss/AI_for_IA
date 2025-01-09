@@ -16,4 +16,4 @@ A blog writer specialist
 Tasks and crews are defined and started
 Results are presented.
 
-The notebook uses crewai framework for orchestrating autonomous AI agents and OpenAI API to interact with OpenAI LLMs.
+The notebook uses crewai framework for orchestrating autonomous AI agents and OpenAI API to interact with OpenAI LLMs, therefore a subscription is required for the later.
