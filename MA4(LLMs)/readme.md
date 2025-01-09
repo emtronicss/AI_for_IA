@@ -5,3 +5,15 @@ In the article the author briefly introduces AI agents or LLMs (Large Language M
 The task consists in implementing a content creation workflow system that writes blog posts, LinkedIn content and Twitter posts, after extensive research about a topic selected by the user, which in this case is about analyzing the content of a video created by the author himself.
 
 Again, to execute just start from the top of the notebook and if an error is trown about libraries version, restart the runtime.
+
+Methodology:
+Four agents are defined:
+A topic researcher
+A LinkedIn post expert
+An X content creator
+A blog writer specialist
+
+Tasks and crews are defined and started
+Results are presented.
+
+The notebook uses crewai framework for orchestrating autonomous AI agents and OpenAI API to interact with OpenAI LLMs.
