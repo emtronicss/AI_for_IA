@@ -1,9 +1,15 @@
 # AI_for_IA
-Simple jupyter notebooks implementing FNNs for regression and classification problems for the course AI for IA November 2024, Master in Industrial Analytics in Uppsala University, Sweden.
+Simple jupyter notebooks created in Google Colab implementing FNNs for regression and classification problems for the course AI for IA November 2024, Master in Industrial Analytics in Uppsala University, Sweden.
 
-There are a couple of notebooks with their corresponding data sources when required, they were made in google colab and the easiest way I've found for running them is to mount all the necesary files into a google drive folder and execute from there.
+There are a couple of notebooks with their corresponding data sources when required, they were made in google colab.
 
-These notebooks were tested and evaluated so execunting each step in the order they are made should work without any error. This way is also guaranteed that the required libraries are imported.
+**To run the notebooks:**
+The easiest way I've found for running them is:
+First paste all the necesary files into a google drive folder and execute from there.
+From Google drive, double click so the will open in Google Colab
+Executing each step in the order they are made should work without any error. In this way the required files are mounted from the drive into Colab VM, otherwise file not found errors will come out.
+This way is also guaranteed that the required libraries are imported.
+
 If at any point there is an error related to the version of libraries, this usually is solved by reloading the runtime and running again from the begining.
 
 **MA3_ANNforClassification.ipynb**
