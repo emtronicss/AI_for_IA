@@ -6,14 +6,14 @@ There are a couple of notebooks with their corresponding data sources when requi
 These notebooks were tested and evaluated so execunting each step in the order they are made should work without any error. This way is also guaranteed that the required libraries are imported.
 If at any point there is an error related to the version of libraries, this usually is solved by reloading the runtime and running again from the begining.
 
-MA3_ANNforClassification.ipynb
+**MA3_ANNforClassification.ipynb**
 
 Here the main goal is:
 To understand how common data like signals and images are represented as one/multi-dimensional numerical
 arrays and tensors in order to be useful for FANN training.
 Learn how to solve large-scale classification problems using FANNs in PyTorch
 
-MA4_AI_Agents_2.ipynb
+**MA4_AI_Agents_2.ipynb**
 
 In this notebook I replicate the work in this article posted in medium: https://medium.com/towards-data-science/ai-agents-from-concepts-to-practical-implementation-in-python-fb26789b1560
 
