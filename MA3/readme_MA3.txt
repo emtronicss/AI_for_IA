@@ -1,3 +1,9 @@
+MA3_ANNforClassification.ipynb:
+
+Here the main goal is: To understand how common data like signals and images are represented as one/multi-dimensional numerical arrays and tensors in order to be useful for FANN training. Learn how to solve large-scale classification problems using FANNs in PyTorch
+
+At the end of each file there are some reflections about each procedure.
+
 There are two tasks in this notebook.
 
 Task A: Two-class Signal Classification by FANNs
@@ -10,3 +16,5 @@ Then we explore it to find answers to the following: How many signals does the d
 Plot some of the signals in the dataset with their labels (normal/abnormal) shown in the plot title. 
 
 We train the NN and finally plot Cost-entropy and Accuracy performance.
+
+Fro more details check main readme.md
